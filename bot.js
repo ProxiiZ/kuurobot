@@ -46,4 +46,4 @@ bot.on('ready', () => {
     bot.user.setGame("Unplugging your Gran's Life Support...")
     });
 bot.on('error', e => { console.error(e); });
-bot.login("REDACTED");
+bot.login("MjcyODk3ODg0NjYyMzk4OTc3.C2esAQ.aTDoe_NMzrdNBteUgvnJhTFAiwU");
